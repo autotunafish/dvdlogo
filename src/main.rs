@@ -25,8 +25,8 @@ fn main() {
     let mut bcounter = 222;
 
     //Overall dimensions of the canvas.
-    let xdim: i32 = 320;
-    let ydim: i32 = 150;
+    let xdim: i32 = 400;
+    let ydim: i32 = 300;
 
     //Start positin of the Logo.
     let mut origin = [75, 50];
